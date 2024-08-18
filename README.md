@@ -36,7 +36,7 @@ The dashboard includes two main sections: Credit Card Transaction Report and Cre
 ## Installation and Usage
 To use the Credit Card Insight Dashboard:
 
-1. **Install Power BI Desktop:** Download and install Power BI Desktop from the official Power BI website.
+1. **Install Power BI Desktop**: Download and install Power BI Desktop from the official [Power BI website](https://powerbi.microsoft.com/en-us/desktop/).
 2. **Clone or Download Repository:** Clone or download this repository to your local machine.
 3. **Open Dashboard:** Open the `Credit_Card_Insight_Dashboard.pbix` file in Power BI Desktop to explore the dashboard interactively.
 4. **Explore Data:** Connect the dashboard to your credit card data source or use the provided sample data to explore various visualizations and insights.
