@@ -46,6 +46,7 @@ The primary data sources for this project include transaction data and customer 
 
 ## Dashboard
 ![Credit Card Insights Dashboard_page-0001](https://github.com/user-attachments/assets/cdc39cb0-3586-4963-9985-58e9c47b5ea4)
+![Credit Card Insights Dashboard-2](https://github.com/user-attachments/assets/83371d3b-3ca7-4da6-ad6e-18137db8a1b4)
 
 This Power BI dashboard provides a comprehensive overview of credit card insights through two sections: Transaction Report and Customer Report, offering detailed KPIs and visualizations for data-driven decision-making.
 
