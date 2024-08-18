@@ -51,9 +51,9 @@ The primary data sources for this project include transaction data and customer 
 This Power BI dashboard provides a comprehensive overview of credit card insights through two sections: Transaction Report and Customer Report, offering detailed KPIs and visualizations for data-driven decision-making.
 
 ## Bug Reporting and Feature Requests
-If you encounter any bugs or issues, please open an issue on GitHub with a detailed description of the problem.
+If you encounter any bugs or issues with the dashboard, please open an issue on [GitHub Issues](https://github.com/aditi_sharma12/Amazon-Dashboard/issues) with a detailed description of the problem encountered.
 
-For feature requests or suggestions to enhance dashboard functionality, feel free to open a new issue with your ideas.
+For feature requests or suggestions to enhance the dashboard functionality, feel free to open a new issue with your ideas.
 
 ## Author
 **Aditi Sharma**
