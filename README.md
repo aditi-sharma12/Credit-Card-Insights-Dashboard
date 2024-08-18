@@ -1,4 +1,4 @@
-# CREDIT CARD INSIGHT DASHBOARD
+![Credit Card Financial Dashboard-Transaction_page-0001](https://github.com/user-attachments/assets/a6f0d9ab-f3cd-489e-a55d-ecce0cb1b026)![Credit Card Financial Dashboard-Transaction_page-0001](https://github.com/user-attachments/assets/a08a7e9c-6334-4866-8233-be9f5056899a)# CREDIT CARD INSIGHT DASHBOARD
 
 This project focuses on developing a comprehensive Power BI dashboard for credit card analytics. The dashboard provides insights into credit card transactions and customer reports, helping stakeholders make informed decisions through data-driven analysis.
 
@@ -45,6 +45,7 @@ To use the Credit Card Insight Dashboard:
 The primary data sources for this project include transaction data and customer data, typically stored in structured formats such as CSV or Excel. Ensure your data aligns with the expected schema used in the dashboard.
 
 ## Dashboard
+![Credit Card Insight Dashboard](https://github.com/user-attachments/assets/5cc728cb-add4-47a6-8585-155c0be5bdd4)
 This Power BI dashboard provides a comprehensive overview of credit card insights through two sections: Transaction Report and Customer Report, offering detailed KPIs and visualizations for data-driven decision-making.
 
 ## Bug Reporting and Feature Requests
