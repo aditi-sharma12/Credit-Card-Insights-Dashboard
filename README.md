@@ -45,8 +45,8 @@ To use the Credit Card Insight Dashboard:
 The primary data sources for this project include transaction data and customer data, typically stored in structured formats such as CSV or Excel. Ensure your data aligns with the expected schema used in the dashboard.
 
 ## Dashboard
-![Credit Card Insights Dashboard_page-0001](https://github.com/user-attachments/assets/cdc39cb0-3586-4963-9985-58e9c47b5ea4)
-![Credit Card Insights Dashboard-2](https://github.com/user-attachments/assets/83371d3b-3ca7-4da6-ad6e-18137db8a1b4)
+![Credit Card Insights Dashboard_page-0001](https://github.com/user-attachments/assets/e200de92-6ae1-4882-87a5-4067a52b439f)
+![Credit Card Insights Dashboard_page-0002](https://github.com/user-attachments/assets/c6fd00ce-0fa9-4628-ac61-20918d270bbb)
 
 This Power BI dashboard provides a comprehensive overview of credit card insights through two sections: Transaction Report and Customer Report, offering detailed KPIs and visualizations for data-driven decision-making.
 
